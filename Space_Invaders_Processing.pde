@@ -1,5 +1,5 @@
 int WIDTH_ = 800;
-int HEIGHT_ = 650;
+int HEIGHT_ = 700;
 Space spaceObj;
 Ship shipObj;
 Controls gameControls;
